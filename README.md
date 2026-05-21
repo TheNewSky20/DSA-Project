@@ -182,13 +182,13 @@ src/chickeninvaders/Main.java
 ## 📸 Screenshots
 
 ### 🎮 Gameplay
-*(Add gameplay screenshot here)*
+<img width="490" height="340" alt="image" src="https://github.com/user-attachments/assets/e3e365a1-2848-462b-a389-b0c33daff30e" />
 
 ### 👾 Boss Battle
-*(Add boss battle screenshot here)*
+<img width="449" height="312" alt="image" src="https://github.com/user-attachments/assets/806a43d6-ebe5-4bb2-9cce-d01f3d1352b8" />
 
 ### 🏆 Leaderboard
-*(Add leaderboard screenshot here)*
+<img width="449" height="312" alt="image" src="https://github.com/user-attachments/assets/fe3799c1-1b44-4b31-a8ef-679254d6fc83" />
 
 ---
 
@@ -228,8 +228,4 @@ Future improvements may include:
 **Project Title:** *Chicken Invaders Cute Edition*  
 **Institution:** International University – Vietnam National University, Ho Chi Minh City
 
----
 
-## 📄 License
-
-This project was developed for **educational purposes only**.
